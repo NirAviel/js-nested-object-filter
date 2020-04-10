@@ -1,2 +1,5 @@
 # js-nested-object-filter
-searching for matches within the object(s) keys and values 
+
+Recursive loop for serching matches in a nested JS Object (Hash),
+matching in keys and in values.
+
