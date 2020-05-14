@@ -1,4 +1,4 @@
-# js-nested-object-filter
+# js-nested-object-search
 
 Recursive loop for searching matches in a nested JS Object (Hash/Json),
 searching for matches in keys and in values.
